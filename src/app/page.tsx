@@ -79,13 +79,13 @@ export default function Home() {
 
               <div className="p-6 text-center">
                 <p>
-                  使用公共免费api，不保证可用性。
+                  Free to use public api，Availability not guaranteed。
                 </p>
-                <p className="p-2">首选使用FreeGPT，回复慢则需要耐心等待</p>
+                <p className="p-2">Prefer using FreeGPT,If the reply is slow, you need to wait patiently</p>
               </div>
               <div className="p-6 text-center">
                 <p>
-                  源代码出处 <Link className="text-blue-400" href="https://github.com/zsio/Free-GPT-No-Auth">GitHub：zsio/Free-GPT-No-Auth</Link>
+                  Source code source <Link className="text-blue-400" href="https://github.com/zsio/Free-GPT-No-Auth">GitHub：zsio/Free-GPT-No-Auth</Link>
                 </p>
 
               </div>
